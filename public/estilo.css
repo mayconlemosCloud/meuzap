@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url('./img/fundo.jpg');
+  background-repeat: cover;
+  font-family: 'Roboto', sans-serif;
+ 
+}
+
+.card.main.mt-5{
+  background-image: url('./img/zapweb.png');
+  background-repeat: cover;
+}
